@@ -34,4 +34,4 @@ def welcome_message(f_name, l_name):
     welcome_str = say_hello()
     return welcome_str + ' ' + full_name_str
 
-print(welcome_message('Avraj', 'Singh'))
+
